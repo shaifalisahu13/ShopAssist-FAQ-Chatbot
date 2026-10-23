@@ -1,0 +1,83 @@
+
+[
+  {
+    "question": "How can I place an order?",
+    "answer": "To place an order, browse the available products, add your chosen items to the cart, and proceed to checkout. Enter your delivery details and confirm your order."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "Open your orders section, select the order you want to cancel, and check whether the cancellation option is available. Orders that have already shipped may not be cancellable."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Open your orders section and select the relevant order to check its current status and tracking details."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery time depends on your location, the product, and the shipping method. Check your order details for the estimated delivery date."
+  },
+  {
+    "question": "How can I return a product?",
+    "answer": "Open your orders section, select the product, and check its return eligibility. Follow the return instructions provided for that item."
+  },
+  {
+    "question": "When will I receive my refund?",
+    "answer": "Refund processing time depends on the seller, the return status, and your payment method. Check your order or refund status for updates."
+  },
+  {
+    "question": "Which payment methods are accepted?",
+    "answer": "Available payment methods may include UPI, debit cards, credit cards, net banking, and cash on delivery. The options shown at checkout determine which methods are available."
+  },
+  {
+    "question": "What should I do if my payment fails?",
+    "answer": "First, check whether money was deducted from your account. If it was not deducted, try again using an available payment method. If money was deducted, check your transaction status before attempting another payment."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "You may be able to change your delivery address before the order is shipped. Open your order details and check whether address editing is available."
+  },
+  {
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Take photographs of the damaged product and its packaging, then open your order details and follow the seller's reporting or return process."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Visit the shopping platform's Help or Customer Support section to find the available contact options for your order or issue."
+  },
+  {
+    "question": "Can I exchange a product?",
+    "answer": "Exchange availability depends on the product and the seller's policy. Check your order details to see whether an exchange option is available."
+  },
+  {
+    "question": "How do I use a discount coupon?",
+    "answer": "Enter your coupon code in the designated field during checkout and apply it. Check the coupon's conditions, expiry date, and minimum purchase requirements."
+  },
+  {
+    "question": "Why is my order delayed?",
+    "answer": "An order may be delayed because of shipping issues, weather, or high order volumes. Check the tracking details for the latest delivery status."
+  },
+  {
+    "question": "Can I order without creating an account?",
+    "answer": "Some shopping platforms allow guest checkout, while others require an account. Check the options available on the checkout page."
+  },
+  {
+    "question": "What if I receive the wrong item?",
+    "answer": "Compare the received item with your order details, take photographs if needed, and report the issue through the platform's return or customer support process."
+  },
+  {
+    "question": "How can I check product availability?",
+    "answer": "Open the product page, select any required size or variant, and check whether it is available for purchase and delivery to your location."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Cash on delivery may be available for selected products and locations. Check the payment options shown during checkout."
+  },
+  {
+    "question": "How can I download my invoice?",
+    "answer": "Open your orders section, select the completed order, and look for an invoice or download invoice option."
+  },
+  {
+    "question": "What happens if my order is lost?",
+    "answer": "Check the tracking status first. If the order appears lost or has not arrived by the estimated date, contact customer support with your order details."
+  }
+]
